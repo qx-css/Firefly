@@ -6,7 +6,7 @@ image: ./cover.avif
 tags: [欢迎]
 category: 闲聊
 draft: false
-author: 千絮
+author: 千絮,GAL,HUGO
 ---
 # **欢迎来到揪码博客**
 ### **我们是揪码互联网科技公司**，成立于2026.7.1
